@@ -23,7 +23,8 @@ for i in range(0, len(f1)):
         continue
 
 
-
+f1.close()
+f2.close()
      
 
   
